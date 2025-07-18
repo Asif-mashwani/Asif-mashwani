@@ -5,8 +5,8 @@
   <a href="https://asifmashwani.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=flat-square&logo=google-chrome" />
   </a>
-  <a href="https://www.tiktok.com/@asif.mashwani.008" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-13K+_Followers-black?style=flat-square&logo=tiktok" />
+  <a href="https://www.tiktok.com/@asif_mashwani_008" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-15K+_Followers-black?style=flat-square&logo=tiktok" />
   </a>
 </p>
 
