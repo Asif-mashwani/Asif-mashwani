@@ -44,7 +44,7 @@
 - 💼 WhatsApp: [Click to Chat](https://wa.me/923064267575)
 - 🌐 Portfolio: [asifmashwani.com](https://asifmashwani.com)
 - 📬 Email: info@asifmashwani.com
-- 🧑‍💻 TikTok: [@asifmashwani](https://www.tiktok.com/@asif.mashwani.008)
+- 🧑‍💻 TikTok: [@asifmashwani](https://www.tiktok.com/@asif_mashwani_008)
 
 ---
 
