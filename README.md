@@ -11,7 +11,7 @@ I build fast, SEO-optimized, and conversion-focused websites for businesses and 
   <a href="https://asifmashwani.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-asifmashwani.com-blue?style=flat-square&logo=google-chrome" />
   </a>
-  <a href="https://www.upwork.com/freelancers/~YOUR_ID" target="_blank">
+  <a href="https://www.upwork.com/freelancers/~014d6c07102e267607" target="_blank">
     <img src="https://img.shields.io/badge/Upwork-Available-success?style=flat-square&logo=upwork" />
   </a>
   <a href="https://www.tiktok.com/@asif_mashwani_008" target="_blank">
@@ -71,7 +71,7 @@ I have built **30+ PHP mini projects** including:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Asif-mashwani&show_icons=true&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Asif-mashwani&show_icons=true&theme=default" />
 </p>
 
 ---
