@@ -11,6 +11,9 @@ I build fast, SEO-optimized, and conversion-focused websites for businesses and 
   <a href="https://asifmashwani.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-asifmashwani.com-blue?style=flat-square&logo=google-chrome" />
   </a>
+  <a href="https://www.tiktok.com/@asifmashwani_2.0" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-750+_Followers-black?style=flat-square&logo=tiktok" />
+  </a>
   <a href="https://www.upwork.com/freelancers/~014d6c07102e267607" target="_blank">
     <img src="https://img.shields.io/badge/Upwork-Available-success?style=flat-square&logo=upwork" />
   </a>
