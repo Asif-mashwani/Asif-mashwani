@@ -1,81 +1,133 @@
 <h1 align="center">Hi 👋, I'm Asif Mashwani</h1>
+
 <h3 align="center">
-WordPress Developer | Web Designer | PHP Developer | Figma to WordPress Expert
+Laravel Developer | Business Automation Systems | CRM & Booking Solutions
 </h3>
 
 <p align="center">
-I build fast, SEO-optimized, and conversion-focused websites for businesses and startups.
+I build custom Laravel applications that help businesses automate operations, manage customers, and increase efficiency.
 </p>
 
 <p align="center">
-  <a href="https://asifmashwani.com" target="_blank">
+  <a href="https://asifmashwani.com">
     <img src="https://img.shields.io/badge/Portfolio-asifmashwani.com-blue?style=flat-square&logo=google-chrome" />
   </a>
-  <a href="https://www.tiktok.com/@asifmashwani_2.0" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-750+_Followers-black?style=flat-square&logo=tiktok" />
-  </a>
-  <a href="https://www.upwork.com/freelancers/~014d6c07102e267607" target="_blank">
+
+  <a href="https://www.upwork.com/freelancers/~014d6c07102e267607">
     <img src="https://img.shields.io/badge/Upwork-Available-success?style=flat-square&logo=upwork" />
   </a>
-  <a href="https://www.tiktok.com/@asif_mashwani_008" target="_blank">
+
+  <a href="https://www.tiktok.com/@asif_mashwani_008">
     <img src="https://img.shields.io/badge/TikTok-15K+_Followers-black?style=flat-square&logo=tiktok" />
   </a>
 </p>
 
 ---
 
-## 💼 About Me
+## 🚀 About Me
 
-- 🚀 WordPress Developer with **4+ years experience**
-- 🎨 Figma to WordPress pixel-perfect conversion
-- 🛒 WooCommerce & custom PHP solutions
-- ⚡ Speed, SEO & mobile-first optimization
-- 🌍 Clients from local & international markets
+- 💻 Laravel & PHP Developer
+- 🏢 Building business management systems
+- 📅 Booking & Reservation Platforms
+- 💼 CRM & Client Management Solutions
+- 📲 WhatsApp Automation Systems
+- 🛒 E-commerce Development
+- ⚡ SEO & Performance Optimization
 
-I help businesses turn **ideas into high-performing websites** that attract users and generate sales.
+My focus is creating software that solves real business problems.
 
 ---
 
-## 🔧 Tech Stack
+## 🛠 Tech Stack
 
-**Design**
-- Figma, UI/UX Design
+### Backend
 
-**Development**
-- HTML, CSS, JavaScript
-- PHP (Core PHP & MySQL)
-- WordPress (Custom Themes, Elementor, WooCommerce)
+- Laravel
+- PHP
+- MySQL
+- REST APIs
 
-**Optimization**
-- SEO (On-page)
-- Website Speed Optimization
-- Mobile Responsiveness
+### Frontend
 
-**Tools**
-- Git & GitHub
+- HTML
+- CSS
+- JavaScript
+- Bootstrap
+- Blade Templates
+
+### CMS
+
+- WordPress
+- WooCommerce
+
+### Tools
+
+- Git
+- GitHub
 - VS Code
+- Figma
 
 ---
 
-## 🧩 PHP Mini Projects (30+)
+## 📂 Featured Laravel Projects
 
-I have built **30+ PHP mini projects** including:
-- Login & Registration Systems
-- CRUD Applications
-- Appointment Booking Systems
-- Admin Dashboards
-- File Upload & Validation Systems
-- Payment-ready Project Structures
+### 📅 Booking System
 
-👉 Check repositories below for clean code and documentation.
+Appointment booking platform with admin approval workflow.
+
+### 💼 CRM System
+
+Client management, follow-ups, notes, and lead tracking.
+
+### 📲 WhatsApp Notification System
+
+Automatic WhatsApp alerts for bookings and orders.
+
+### 🏥 Clinic Management System
+
+Doctors, appointments, prescriptions, and patient tracking.
+
+### 🏨 Hotel Booking System
+
+Rooms, reservations, payments, and dashboard management.
+
+### 🛒 Mini E-Commerce System
+
+Products, cart, orders, and admin management.
 
 ---
 
-## 📬 Let’s Work Together
+## 🎯 Currently Learning
 
-- 🌐 Portfolio: https://asifmashwani.com
-- 💼 Upwork: Available for new projects
-- 📱 WhatsApp: https://wa.me/923064267575
-- 📧 Email: info@asifmashwani.com
+- Advanced Laravel
+- Queues & Jobs
+- Laravel APIs
+- SaaS Architecture
+- Business Automation Systems
 
-⭐ If you like my work, don’t forget to star the repositories
+---
+
+## 📈 Content & Community
+
+I regularly share:
+
+- Laravel Projects
+- Web Development Tips
+- Business Systems Development
+- Freelancing Journey
+
+on TikTok and social platforms.
+
+---
+
+## 📬 Contact
+
+🌐 Portfolio: https://asifmashwani.com
+
+💼 Upwork:
+https://www.upwork.com/freelancers/~014d6c07102e267607
+
+📧 Email:
+info@asifmashwani.com
+
+⭐ If you like my projects, consider starring the repositories.
