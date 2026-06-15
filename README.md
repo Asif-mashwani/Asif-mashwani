@@ -74,7 +74,7 @@ I have built **30+ PHP mini projects** including:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Asif-mashwani&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Asif-mashwani&show_icons=true&theme=default&cache_seconds=1800" />
 </p>
 
 ---
