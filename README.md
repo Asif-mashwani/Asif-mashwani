@@ -65,37 +65,32 @@ manage customers, handle bookings, and increase operational efficiency.
 
 ## 📂 Featured Projects
 
-### 📅 [Laravel Booking System](https://github.com/Asif-mashwani/laravel-booking-system)
-Appointment booking platform with client-facing booking form, admin approval workflow, email/WhatsApp notifications, and calendar dashboard.  
-`Laravel` `MySQL` `REST API` `Bootstrap`
 
----
-
-### 💼 [Laravel CRM System](https://github.com/Asif-mashwani/laravel-crm-system)
+### 💼 [Laravel Client Management System](https://github.com/Asif-mashwani/Laravel-Client-Management-System)
 Full client relationship management system with lead pipeline, follow-up scheduling, activity notes, and reporting dashboard.  
 `Laravel` `MySQL` `JavaScript` `Bootstrap`
 
 ---
 
-### 📲 [Laravel WhatsApp Notification System](https://github.com/Asif-mashwani/laravel-whatsapp-notification-system)
+### 📲 [Laravel WhatsApp Notification System](https://github.com/Asif-mashwani/Laravel-WhatsApp-Notification-System)
 Automated WhatsApp message delivery for booking confirmations, order updates, and business alerts using Laravel queues and jobs.  
 `Laravel` `Queues` `WhatsApp API` `MySQL`
 
 ---
 
-### 🏥 [Laravel Clinic Management System](https://github.com/Asif-mashwani/laravel-clinic-management-system)
+### 🏥 [Laravel Clinic Management System](https://github.com/Asif-mashwani/Laravel-Clinic-Management-System)
 Complete clinic platform managing doctors, patient records, appointments, prescriptions, and billing in one dashboard.  
 `Laravel` `MySQL` `Blade` `Bootstrap`
 
 ---
 
-### 🏨 [Laravel Hotel Booking System](https://github.com/Asif-mashwani/laravel-hotel-booking-system)
+### 🏨 [Laravel Hotel Booking System](https://github.com/Asif-mashwani/Laravel-Hotel-Booking-System)
 Hotel room reservation system with availability management, booking calendar, payment tracking, and admin control panel.  
 `Laravel` `MySQL` `JavaScript` `Bootstrap`
 
 ---
 
-### 🛒 [Laravel Mini E-Commerce](https://github.com/Asif-mashwani/laravel-mini-ecommerce)
+### 🛒 [Laravel E-commerce System](https://github.com/Asif-mashwani/Laravel-E-commerce-System)
 Lightweight e-commerce platform with product catalog, cart, order management, and a complete admin panel.  
 `Laravel` `MySQL` `Bootstrap` `Blade`
 
